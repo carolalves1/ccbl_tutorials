@@ -13,7 +13,7 @@ After succesfully creating the Live Pen Drive, you will need to boot it and make
 Although easy to install, a Live Pen Drive is limited in relation to the amount of space necessary for certain files. This can make it very slow and inefficient. A solution would be to have a visualization software and have Linux work as a virtual machine on Windows. Examples of popular and free software are VirtualBox and VMware Player, which can be found in the links below (be sure to check if the download corresponds to Windows users if that is the case):
 
 - [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
-- [https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html]
+- https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html
 
 If a visualization software is being used, it is necessary to get used to the fact that the host will always be considered your physical computer and the guest, your virtual machine. With this concept in mind, the next step is to install the guest operating system. Once this is done, you are ready to learn the basics of command line in Terminal!
 
